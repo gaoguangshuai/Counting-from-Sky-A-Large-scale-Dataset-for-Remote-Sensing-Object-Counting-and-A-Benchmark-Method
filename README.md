@@ -1,7 +1,5 @@
-# Counting-from-Sky-A-Large-scale-Dataset-for-Remote-Sensing-Object-Counting-and-A-Benchmark-Method
-
 ASPDNet-pytorch
-This is the PyTorch version for ASPDNet: "Counting from Skyï¼šA Large-scale Dataset for Remote Sensing Object Counting and A Benchmark Method" in TGRS 2020, which delivered a state-of-the-art, straightforward and end-to-end architecture for object counting tasks.
+This is the PyTorch version for ASPDNet: "Counting from Sky£ºA Large-scale Dataset for Remote Sensing Object Counting and A Benchmark Method" in TGRS 2020, which delivered a state-of-the-art, straightforward and end-to-end architecture for object counting tasks.
 
 ***************************************************
 Prerequisites
@@ -32,7 +30,7 @@ References
 If you find the ASPDNet useful, please cite our paper. Thank you!
 
 @inproceedings{gao2020counting,
-  title={Counting from Skyï¼šA Large-scale Dataset for Remote Sensing Object Counting and A Benchmark Method},
+  title={Counting from Sky£ºA Large-scale Dataset for Remote Sensing Object Counting and A Benchmark Method},
   author={Gao, Guangshuai and Liu, Qingjie and Wang, Yunhong},
   booktitle={TGRS},
   year={2020}
