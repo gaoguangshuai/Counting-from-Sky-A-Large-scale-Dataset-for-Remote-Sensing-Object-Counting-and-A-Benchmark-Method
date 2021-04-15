@@ -30,23 +30,29 @@ Paper link: http://arxiv.org/abs/2008.12470
 
 Dataset link：https://pan.baidu.com/s/19hL7O1sP_u2r9LNRsFSjdA  code：nwcx
 
+or at the website https://drive.google.com/drive/my-drive
+but only including building subsets. Other three can be download at https://captain-whu.github.io/DOTA/ according to our provided filenames
+
 ***************************************************
 References
 
 If you find the ASPDNet useful, please cite our paper. Thank you!
 
-@inproceedings{gao2020counting,
-  title={Counting from Sky: A Large-scale Dataset for Remote Sensing Object Counting and A Benchmark Method},
+@article{gao2020counting,
+  title={Counting From Sky: A Large-Scale Data Set for Remote Sensing Object Counting and a Benchmark Method},
   author={Gao, Guangshuai and Liu, Qingjie and Wang, Yunhong},
-  booktitle={TGRS},
-  year={2020}
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2020},
+  publisher={IEEE}
 }
 
-@inproceedings{gao2020dense,
-  title={Dense Object Counting in Remote Sensing Images},
+@inproceedings{gao2020counting,
+  title={Counting dense objects in remote sensing images},
   author={Gao, Guangshuai and Liu, Qingjie and Wang, Yunhong},
-  booktitle={ICASSP},
-  year={2020}
+  booktitle={ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={4137--4141},
+  year={2020},
+  organization={IEEE}
 }
 
 
