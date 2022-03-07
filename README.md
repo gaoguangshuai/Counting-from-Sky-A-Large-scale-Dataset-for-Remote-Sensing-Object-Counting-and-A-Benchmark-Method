@@ -38,21 +38,21 @@ References
 
 If you find the ASPDNet useful, please cite our paper. Thank you!
 
-@article{gao2020counting,
-  title={Counting From Sky: A Large-Scale Data Set for Remote Sensing Object Counting and a Benchmark Method},
-  author={Gao, Guangshuai and Liu, Qingjie and Wang, Yunhong},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={2020},
-  publisher={IEEE}
+@article{gao2020counting,  
+  title={Counting From Sky: A Large-Scale Data Set for Remote Sensing Object Counting and a Benchmark Method},  
+  author={Gao, Guangshuai and Liu, Qingjie and Wang, Yunhong},  
+  journal={IEEE Transactions on Geoscience and Remote Sensing},  
+  year={2020},  
+  publisher={IEEE}  
 }
 
-@inproceedings{gao2020counting,
-  title={Counting dense objects in remote sensing images},
-  author={Gao, Guangshuai and Liu, Qingjie and Wang, Yunhong},
-  booktitle={ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={4137--4141},
-  year={2020},
-  organization={IEEE}
+@inproceedings{gao2020counting,  
+  title={Counting dense objects in remote sensing images},  
+  author={Gao, Guangshuai and Liu, Qingjie and Wang, Yunhong},  
+  booktitle={ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},  
+  pages={4137--4141},  
+  year={2020},  
+  organization={IEEE}  
 }
 
 
