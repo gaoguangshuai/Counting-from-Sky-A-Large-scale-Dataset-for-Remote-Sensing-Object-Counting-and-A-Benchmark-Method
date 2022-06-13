@@ -62,9 +62,12 @@ References
 If you find the ASPDNet useful, please cite our paper. Thank you!
 
 @article{gao2020counting,  
-  title={Counting From Sky: A Large-Scale Data Set for Remote Sensing Object Counting and a Benchmark Method},  
+  title={Counting from sky: A large-scale data set for remote sensing object counting and a benchmark method},  
   author={Gao, Guangshuai and Liu, Qingjie and Wang, Yunhong},  
   journal={IEEE Transactions on Geoscience and Remote Sensing},  
+  volume={59},  
+  number={5},  
+  pages={3642--3655},  
   year={2020},  
   publisher={IEEE}  
 }
